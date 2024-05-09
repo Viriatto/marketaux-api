@@ -3,36 +3,36 @@
 
 version: 2
 updates:
-  - package-ecosystem: 'npm'
-    target-branch: 'dev'
-    directory: '/'
+  - package-ecosystem: "npm"
+    target-branch: "dev"
+    directory: "/"
     schedule:
-      interval: 'daily'
+      interval: "daily"
     assignees:
-      - 'Viriatto'
+      - "Viriatto"
     reviewers:
-      - 'Viriatto'
+      - "Viriatto"
     labels:
-      - '🛠️ dependencies'
+      - "🛠️ dependencies"
     commit-message:
-      include: 'scope'
-      prefix: 'npm'
+      include: "scope"
+      prefix: "npm"
     groups:
       minor-patch-development:
-        dependency-type: 'development'
+        dependency-type: "development"
         update-types:
-          - 'minor'
-          - 'patch'
+          - "minor"
+          - "patch"
       major-development:
-        dependency-type: 'development'
+        dependency-type: "development"
         update-types:
-          - 'major'
+          - "major"
       minor-patch-production:
-        dependency-type: 'production'
+        dependency-type: "production"
         update-types:
-          - 'minor'
-          - 'patch'
+          - "minor"
+          - "patch"
       major-production:
-        dependency-type: 'production'
+        dependency-type: "production"
         update-types:
-          - 'major'
+          - "major"

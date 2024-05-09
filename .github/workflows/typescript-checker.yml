@@ -5,8 +5,8 @@ name: Typescript Error Checker
 
 on:
   push:
-    paths: 
-      - 'src/*'
+    paths:
+      - "src/*"
 
 jobs:
   check-for-errors:

@@ -15,7 +15,7 @@
   ],
   "excludeExternals": true,
   "internalModule": "internal",
-    "requiredToBeDocumented": [
+  "requiredToBeDocumented": [
     //"Project",
     //"Module",
     //"Namespace",
@@ -44,7 +44,7 @@
     "Accessor", // shorthand for GetSignature + SetSignature
     //   "GetSignature",
     //    "SetSignature",
-    "TypeAlias",
+    "TypeAlias"
     // TypeDoc creates reference reflections if a symbol is exported from a package with multiple names. Most projects
     // won't have any of these, and they just render as a link to the canonical name.
     //    "Reference",
