@@ -1,9 +1,10 @@
 {
-  "name": "template",
-  "version": "0.3.0",
-  "description": "A template for npm packages.",
+  "name": "marketaux-api",
+  "version": "0.1.0",
+  "description": "A TypeScript SDK for the marketaux API.",
   "main": "./dist/index.js",
   "types": "./types/index.d.ts",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "prebuild": "rimraf dist types",
@@ -28,6 +29,7 @@
   "homepage": "https://github.com/Viriatto/npm-package-template#readme",
   "devDependencies": {
     "@tsconfig/node-lts": "^20.1.1",
+    "@types/luxon": "^3.4.2",
     "@types/node": "^20.11.10",
     "@typescript-eslint/eslint-plugin": "^6.20.0",
     "@typescript-eslint/parser": "^6.20.0",
@@ -46,5 +48,8 @@
     "typedoc-plugin-missing-exports": "^2.2.0",
     "typedoc-plugin-rename-defaults": "^0.7.0",
     "typescript": "^5.3.3"
+  },
+  "dependencies": {
+    "luxon": "^3.4.4"
   }
 }
