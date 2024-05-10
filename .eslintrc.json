@@ -6,5 +6,6 @@
   "rules": {
     "tsdoc/syntax": "error",
     "@typescript-eslint/member-ordering": "error"
-  }
+  },
+  "ignorePatterns": ["*.md"]
 }
