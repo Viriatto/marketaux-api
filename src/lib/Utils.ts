@@ -2,12 +2,7 @@ import { DateTime } from "luxon";
 
 export abstract class Utils {
   public static toAPIDate(date: Date) {
-    const UTCDate = DateTime.fromJSDate(date)
-      .toUTC()
-      .toFormat("yyyy-MM-dd'T'HH:mm:ss");
-    console.log(UTCDate);
-
-    return UTCDate;
+    return DateTime.fromJSDate(date).toUTC().toFormat("yyyy-MM-dd'T'HH:mm:ss");
   }
 
   public static isStringArray(value: unknown): value is string[] {
