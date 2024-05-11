@@ -135,7 +135,15 @@ export default abstract class APIInterface {
     resourceURL.pathname = `/v1/${endpoint}`;
     resourceURL.search = searchParams.toString();
 
-    const response = await fetch(resourceURL);
-    return <Promise<APIEndpoints[T]["response"]>>response.json();
+    const response = await (await fetch(resourceURL)).json();
+
+    if (!response || typeof response !== "object")
+      throw new Error("Response is not a non-null object.");
+
+    if (Utils.isAPIError(response)) {
+      throw new Error(`${response.code} - ${response.message}`);
+    }
+
+    return <Promise<APIEndpoints[T]["response"]>>response;
   }
 }
