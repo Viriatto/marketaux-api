@@ -1,4 +1,4 @@
-[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APIArticle
+[Marketaux API - v0.2.1](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APIArticle
 
 # Interface: APIArticle
 
@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:13](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L13)
+[interfaces/news/APINewsInterface.ts:13](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L13)
 
 ___
 
@@ -40,7 +40,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:22](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L22)
+[interfaces/news/APINewsInterface.ts:22](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L22)
 
 ___
 
@@ -50,7 +50,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:17](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L17)
+[interfaces/news/APINewsInterface.ts:17](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L17)
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:14](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L14)
+[interfaces/news/APINewsInterface.ts:14](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L14)
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:18](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L18)
+[interfaces/news/APINewsInterface.ts:18](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L18)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:19](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L19)
+[interfaces/news/APINewsInterface.ts:19](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L19)
 
 ___
 
@@ -90,7 +90,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:21](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L21)
+[interfaces/news/APINewsInterface.ts:21](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L21)
 
 ___
 
@@ -100,7 +100,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:23](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L23)
+[interfaces/news/APINewsInterface.ts:23](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L23)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:15](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L15)
+[interfaces/news/APINewsInterface.ts:15](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L15)
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:20](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L20)
+[interfaces/news/APINewsInterface.ts:20](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L20)
 
 ___
 
@@ -130,7 +130,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:12](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L12)
+[interfaces/news/APINewsInterface.ts:12](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L12)
 
 ___
 
@@ -140,7 +140,7 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:16](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L16)
+[interfaces/news/APINewsInterface.ts:16](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L16)
 
 ___
 
@@ -150,4 +150,4 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:11](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L11)
+[interfaces/news/APINewsInterface.ts:11](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L11)

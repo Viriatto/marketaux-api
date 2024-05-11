@@ -1,4 +1,4 @@
-[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APIInterface
+[Marketaux API - v0.2.1](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APIInterface
 
 # Class: APIInterface
 
@@ -42,7 +42,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:99](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L99)
+[lib/APIInterface.ts:99](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L99)
 
 ## Properties
 
@@ -52,7 +52,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:97](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L97)
+[lib/APIInterface.ts:97](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L97)
 
 ## Methods
 
@@ -79,4 +79,4 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:103](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L103)
+[lib/APIInterface.ts:103](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L103)

@@ -1,4 +1,4 @@
-[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / internal
+[Marketaux API - v0.2.1](../README.md) / [Exports](../modules.md) / internal
 
 # Module: internal
 
@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:7](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L7)
+[interfaces/news/APINewsInterface.ts:7](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/interfaces/news/APINewsInterface.ts#L7)

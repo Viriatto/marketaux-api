@@ -1,4 +1,4 @@
-[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / API
+[Marketaux API - v0.2.1](../README.md) / [Exports](../modules.md) / API
 
 # Class: API
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[api.ts:10](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L10)
+[api.ts:10](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L10)
 
 ## Properties
 
@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[api.ts:6](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L6)
+[api.ts:6](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L6)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[api.ts:8](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L8)
+[api.ts:8](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L8)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[api.ts:4](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L4)
+[api.ts:4](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L4)
 
 ## Accessors
 
@@ -82,7 +82,7 @@ ___
 
 #### Defined in
 
-[api.ts:18](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L18)
+[api.ts:18](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L18)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[api.ts:14](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L14)
+[api.ts:14](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L14)
 
 ___
 
@@ -110,4 +110,4 @@ ___
 
 #### Defined in
 
-[api.ts:22](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/api.ts#L22)
+[api.ts:22](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/api.ts#L22)

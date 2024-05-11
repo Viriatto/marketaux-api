@@ -1,4 +1,4 @@
-[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APISortOrder
+[Marketaux API - v0.2.1](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APISortOrder
 
 # Enumeration: APISortOrder
 
@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:16](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L16)
+[lib/APIInterface.ts:16](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L16)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:17](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L17)
+[lib/APIInterface.ts:17](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L17)

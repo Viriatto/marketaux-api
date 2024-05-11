@@ -1,4 +1,4 @@
-[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / ResponseMeta
+[Marketaux API - v0.2.1](../README.md) / [Exports](../modules.md) / ResponseMeta
 
 # Interface: ResponseMeta
 
@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:90](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L90)
+[lib/APIInterface.ts:90](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L90)
 
 ___
 
@@ -29,7 +29,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:92](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L92)
+[lib/APIInterface.ts:92](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L92)
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:93](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L93)
+[lib/APIInterface.ts:93](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L93)
 
 ___
 
@@ -49,4 +49,4 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:91](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L91)
+[lib/APIInterface.ts:91](https://github.com/Viriatto/marketaux-api/blob/27b470f/src/lib/APIInterface.ts#L91)
