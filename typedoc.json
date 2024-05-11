@@ -1,6 +1,6 @@
 {
   "$schema": "https://typedoc.org/schema.json",
-  "name": "NPM Package Template",
+  "name": "Marketaux API",
   "readme": "./README.md",
   "includeVersion": true,
   "entryPoints": ["./src/index.ts"],

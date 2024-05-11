@@ -1,4 +1,4 @@
-[NPM Package Template - v0.1.3](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APISort
+[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APISort
 
 # Enumeration: APISort
 
@@ -21,7 +21,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:10](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L10)
+[lib/APIInterface.ts:10](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L10)
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:11](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L11)
+[lib/APIInterface.ts:11](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L11)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:9](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L9)
+[lib/APIInterface.ts:9](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L9)
 
 ___
 
@@ -51,4 +51,4 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:12](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L12)
+[lib/APIInterface.ts:12](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L12)

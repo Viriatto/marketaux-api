@@ -1,6 +1,6 @@
-[NPM Package Template - v0.1.3](README.md) / Exports
+[Marketaux API - v0.2.0](README.md) / Exports
 
-# NPM Package Template - v0.1.3
+# Marketaux API - v0.2.0
 
 ## Table of contents
 

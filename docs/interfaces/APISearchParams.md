@@ -1,4 +1,4 @@
-[NPM Package Template - v0.1.3](../README.md) / [Exports](../modules.md) / APISearchParams
+[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / APISearchParams
 
 # Interface: APISearchParams
 
@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:33](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L33)
+[lib/APIInterface.ts:33](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L33)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:41](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L41)
+[lib/APIInterface.ts:41](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L41)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:31](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L31)
+[lib/APIInterface.ts:31](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L31)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:42](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L42)
+[lib/APIInterface.ts:42](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L42)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:44](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L44)
+[lib/APIInterface.ts:44](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L44)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:37](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L37)
+[lib/APIInterface.ts:37](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L37)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:39](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L39)
+[lib/APIInterface.ts:39](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L39)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:32](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L32)
+[lib/APIInterface.ts:32](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L32)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:45](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L45)
+[lib/APIInterface.ts:45](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L45)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:51](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L51)
+[lib/APIInterface.ts:51](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L51)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:36](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L36)
+[lib/APIInterface.ts:36](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L36)
 
 ___
 
@@ -148,7 +148,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:38](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L38)
+[lib/APIInterface.ts:38](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L38)
 
 ___
 
@@ -158,7 +158,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:52](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L52)
+[lib/APIInterface.ts:52](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L52)
 
 ___
 
@@ -168,7 +168,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:47](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L47)
+[lib/APIInterface.ts:47](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L47)
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:46](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L46)
+[lib/APIInterface.ts:46](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L46)
 
 ___
 
@@ -188,7 +188,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:48](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L48)
+[lib/APIInterface.ts:48](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L48)
 
 ___
 
@@ -198,7 +198,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:40](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L40)
+[lib/APIInterface.ts:40](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L40)
 
 ___
 
@@ -208,7 +208,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:34](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L34)
+[lib/APIInterface.ts:34](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L34)
 
 ___
 
@@ -218,7 +218,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:35](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L35)
+[lib/APIInterface.ts:35](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L35)
 
 ___
 
@@ -228,7 +228,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:49](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L49)
+[lib/APIInterface.ts:49](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L49)
 
 ___
 
@@ -238,7 +238,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:50](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L50)
+[lib/APIInterface.ts:50](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L50)
 
 ___
 
@@ -248,7 +248,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:43](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L43)
+[lib/APIInterface.ts:43](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L43)
 
 ___
 
@@ -258,4 +258,4 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:30](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L30)
+[lib/APIInterface.ts:30](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L30)

@@ -1,4 +1,4 @@
-[NPM Package Template - v0.1.3](../README.md) / [Exports](../modules.md) / APIEntity
+[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / APIEntity
 
 # Interface: APIEntity
 
@@ -25,7 +25,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:65](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L65)
+[lib/APIInterface.ts:65](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L65)
 
 ___
 
@@ -35,7 +35,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:63](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L63)
+[lib/APIInterface.ts:63](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L63)
 
 ___
 
@@ -45,7 +45,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:64](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L64)
+[lib/APIInterface.ts:64](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L64)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:70](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L70)
+[lib/APIInterface.ts:70](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L70)
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:67](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L67)
+[lib/APIInterface.ts:67](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L67)
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:68](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L68)
+[lib/APIInterface.ts:68](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L68)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:62](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L62)
+[lib/APIInterface.ts:62](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L62)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:69](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L69)
+[lib/APIInterface.ts:69](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L69)
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:61](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L61)
+[lib/APIInterface.ts:61](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L61)
 
 ___
 
@@ -115,4 +115,4 @@ ___
 
 #### Defined in
 
-[lib/APIInterface.ts:66](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L66)
+[lib/APIInterface.ts:66](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L66)

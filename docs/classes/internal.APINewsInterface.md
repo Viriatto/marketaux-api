@@ -1,4 +1,4 @@
-[NPM Package Template - v0.1.3](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APINewsInterface
+[Marketaux API - v0.2.0](../README.md) / [Exports](../modules.md) / [internal](../modules/internal.md) / APINewsInterface
 
 # Class: APINewsInterface
 
@@ -47,7 +47,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:99](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L99)
+[lib/APIInterface.ts:99](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L99)
 
 ## Properties
 
@@ -61,7 +61,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:97](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L97)
+[lib/APIInterface.ts:97](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L97)
 
 ## Methods
 
@@ -92,7 +92,7 @@
 
 #### Defined in
 
-[lib/APIInterface.ts:103](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/lib/APIInterface.ts#L103)
+[lib/APIInterface.ts:103](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/lib/APIInterface.ts#L103)
 
 ___
 
@@ -112,4 +112,4 @@ ___
 
 #### Defined in
 
-[interfaces/news/APINewsInterface.ts:27](https://github.com/Viriatto/marketaux-api/blob/ec162d3/src/interfaces/news/APINewsInterface.ts#L27)
+[interfaces/news/APINewsInterface.ts:27](https://github.com/Viriatto/marketaux-api/blob/1d8313d/src/interfaces/news/APINewsInterface.ts#L27)
